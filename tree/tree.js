@@ -1,5 +1,3 @@
-// tree.js
-
 class Node {
   constructor(value) {
     this.value = value;
@@ -149,3 +147,4 @@ class Tree {
 }
 
 export { Tree, Node };
+
